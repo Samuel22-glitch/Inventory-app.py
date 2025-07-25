@@ -1,2 +1,2 @@
 # inventory.py
-this is an inventory foe drink company
+this is an inventory for drink company
